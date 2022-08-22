@@ -32,7 +32,7 @@ plt.plot(tl['time_step'], tl['operation_count']);
 ```
 ![timeline](./images/IMG_0097.jpg)
 
-More examples are [here](https://github.com/hariharan-devarajan/vanidl/tree/master/examples)
+More examples are [here](https://github.com/argonne-lcf/vanidl/tree/master/examples)
 
 ## Installation
 
@@ -49,7 +49,7 @@ To install VaniDL, the easiest way is to run
 For the bleeding edge version (recommended):
 
 ```bash
-pip install git+https://github.com/hariharan-devarajan/vanidl.git
+pip install git+https://github.com/argonne-lcf/vanidl.git
 ```
 For the latest stable version:
 ```bash
@@ -64,22 +64,22 @@ python setup.py install
 module load VaniDL
 ```
 ## Getting Started
-See _[Getting Started with VaniDL](https://github.com/hariharan-devarajan/vanidl/wiki/Getting-Started)_ to learn about VaniDL basic functionalities or start browsing _[TFLearn APIs](https://github.com/hariharan-devarajan/vanidl/wiki/API)_.
+See _[Getting Started with VaniDL](https://github.com/argonne-lcf/vanidl/wiki/Getting-Started)_ to learn about VaniDL basic functionalities or start browsing _[TFLearn APIs](https://github.com/argonne-lcf/vanidl/wiki/API)_.
 
 ### Examples
-There are many examples of analysis available, see _[Examples](https://github.com/hariharan-devarajan/vanidl/tree/master/examples)_.
+There are many examples of analysis available, see _[Examples](https://github.com/argonne-lcf/vanidl/tree/master/examples)_.
 
 ## Contributions
 This is the first release of VaniDL, if you find any bug, please report it in the GitHub issues section.
 
 Improvements and requests for new features are more than welcome! Do not hesitate to twist and tweak VaniDL, and send pull-requests.
 
-For more info:  _[Contribute to VaniDL](https://github.com/hariharan-devarajan/vanidl/wiki/contributions)_.
+For more info:  _[Contribute to VaniDL](https://github.com/argonne-lcf/vanidl/wiki/contributions)_.
+
+Acknowledgements
+
+This work used resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility under Contract DE-AC02-06CH11357 and is supported in part by National Science Foundation under NSF, OCI-1835764 and NSF, CSR-1814872.
+
 ## License
 
-MIT License
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTg3NDgzMywxMzI5MDI3OTYwLC0xNj
-IyNTExMDMwLDg1MjY1NDIzMyw0MTI2MDY3NDYsLTE1MjczMDA1
-MTVdfQ==
--->
+BSD 3-Clause 
